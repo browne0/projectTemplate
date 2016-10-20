@@ -9,6 +9,11 @@ This is the project template I use everytime I am learning something new, or wor
 </p>
 ## Getting Started
 
+This project assumes that you already know:
+
+1. How to use Sass
+2. A basic understanding of navigating a CLI. (command line interface)
+
 In order to use this template, you will need three things installed on your device:
 
 1. [Node.js](https://nodejs.org/en/download), a very powerful JavaScript runtime.
@@ -29,7 +34,7 @@ The package.json file as of right now comes with five dev dependencies/modules:
 
 In order to install these modules in your project follow these steps: 
 
-1. Traverse to the root of your project in your CLI. (command line interface)
+1. Traverse to the root of your project in your CLI.
  
  - If you're not sure which one that is, it's the folder with *package.json* in it.
  
