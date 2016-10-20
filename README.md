@@ -98,7 +98,7 @@ I will place the links for each browser below:
 
 ## Authors
 
-* **Malik Browne** - *Initial work* - Current freelance web developer, and creator of this template.
+* **Malik Browne** - Current freelance web developer, and creator of this template.
 
 ## License
 
