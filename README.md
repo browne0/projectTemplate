@@ -46,7 +46,7 @@ In order to install these modules in your project follow these steps:
 
 3. Type in the following into your CLI. Node will take care of the rest:
 
- <pre><b>npm install -g grunt-cli</b></pre> 
+ <pre><b>npm install</b></pre> 
 
 4. Finally type in this last line of code. This will make sure that all the modules 
 
