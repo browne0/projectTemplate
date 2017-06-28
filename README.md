@@ -1,5 +1,7 @@
 # A Solid Web Development Project Template
 
+This was made in 2015, it will need to be updated soon.
+
 This is the project template I use everytime I am learning something new, or working on a project. Speeds up my workflow by a ton, and proofchecks everything I do!
 
 # File Structure
